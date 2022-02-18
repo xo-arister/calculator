@@ -1,0 +1,26 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 45px;
+    text-align: center;
+    margin-top: 100px;
+    background-color: wheat;
+}
+button {
+    background-color: rosybrown;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 5px 30px 5px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+#num1-el {
+    text-decoration: underline;
+}
+#num2-el {
+    text-decoration: underline;
+}
+#sum-el {
+    text-decoration: underline;
+}
